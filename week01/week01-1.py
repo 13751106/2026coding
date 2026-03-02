@@ -1,5 +1,5 @@
 # week01-1.py
-# LeetCode �ǲ߭p�e 1404. Number of Steps to Reduce a Number in Binary Representation to One
+# LeetCode ¾Ç²ß­pµe 1404. Number of Steps to Reduce a Number in Binary Representation to One
 class Solution:
     def numSteps(self, s: str) -> int:
         ans = 0
